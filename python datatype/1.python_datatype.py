@@ -33,4 +33,8 @@ x = ("apple", "banana", "cherry")
 #print (type(x)) #this will print <class 'tuple'>, because x is a tuple.
 
 x = range(6)
-print (list(x)) #this will print <class 'range'>, because x is a range.
+#print (list(x)) #this will print <class 'range'>, because x is a range.
+
+x = 20.5
+print(int(x))
+print(type(int(x)))
