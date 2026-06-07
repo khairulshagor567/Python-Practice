@@ -17,4 +17,16 @@ greetings = "Hello, World!"
 
 #print(len(greetings))
 
+#Check String
+
+txt = "Python is dynamic programming language"
+
+print("free" in txt)
+
+
+#Use it in an if statement:
+
+if "dynamic" in txt:
+    print("Yes", "dynamic is present")
+
 
