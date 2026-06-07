@@ -23,4 +23,4 @@ txt = "Soudho bro, is supporter of brazil."
 #Split String
 
 txt = "Soudho is Shaha"
-print(txt.split())
+# print(txt.split())
