@@ -15,3 +15,18 @@ txt="I love apples, apple are my favorite fruit."
 # print(txt.count("apple"))
 #you can find find a specific value from a sentence with indexing range.
 # print(txt.count("apple",5,25))
+
+#find()
+
+txt = "Hello, welcome to my world."
+
+x = txt.find("welcome")
+
+# print(x)
+
+#join()
+myTuple = ("John", "Peter", "Vicky")
+
+x = "#".join(myTuple)
+
+# print(x)
