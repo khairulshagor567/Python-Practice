@@ -25,3 +25,9 @@ print(thisList[:5]) #last item is not included
 thisList = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thisList[-4:-1]) #last item is not included
 
+#Check if Item Exists
+
+thisList = ["apple", "banana", "cherry"]
+if "apple" in thisList:
+    print("Yes, 'apple' is in the fruits list")
+
