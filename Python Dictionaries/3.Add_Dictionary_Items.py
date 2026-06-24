@@ -8,4 +8,5 @@ thisdict = {
 thisdict["color"] = "red"
 thisdict["wheels"] = 4
 thisdict.update({"seats":5})
+thisdict.copy()
 print(thisdict)
