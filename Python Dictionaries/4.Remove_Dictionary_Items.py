@@ -11,5 +11,6 @@ thisdict = {
 
 thisdict.pop("brand")
 thisdict.popitem()
+thisdict.clear()
 del thisdict
 print(thisdict)
