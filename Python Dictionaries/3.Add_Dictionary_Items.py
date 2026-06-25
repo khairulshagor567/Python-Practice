@@ -1,6 +1,4 @@
 #Add Dictionary Items
-
-
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
