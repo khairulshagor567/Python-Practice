@@ -13,6 +13,26 @@ myfamilys = {
         "year": 2025
     }
 }
-for x in myfamilys:
-     print(myfamilys['1stChild']['name'])
+# for x in myfamilys:
+#      print(myfamilys[x]['name'])
+
+
+childOne = {
+    "name" : "Sawban Bin Khairul",
+    "age"  : 4.6,
+    "year" : 2021
+}
+
+childTwo = {
+    "name" : "Arwa Binte Khairul",
+    "age"  : 1.6,
+    "year" : 2025
+}
+
+myFamily ={
+    "child1" : childOne,
+    "child2" : childTwo,
+}
+
+print(myFamily)
     
